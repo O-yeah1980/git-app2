@@ -8,7 +8,7 @@ class ArticlesController < ApplicationController
   def show
   end
 
-
+# aaaaaaaaaaa
   def new
     @article = Article.new
   end
