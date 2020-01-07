@@ -1,7 +1,7 @@
 # README
 ## how to use GitHub Desktop
 ### Practice
-
+### PRACTICE
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
